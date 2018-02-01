@@ -28,9 +28,9 @@ baseurl: ""
 #twitter_handle: twitter user
 
 #fill in disqus shortname to use disqus
-#disqus: disqus-shortname
+disqus: nem-prensa
 
-#google_analytics: UA-XXXXX-X
+google_analytics: UA-113324249-1
 
 # social icons and sharing options
 social:
