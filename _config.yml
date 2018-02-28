@@ -2,11 +2,19 @@
 gems:
   - jemoji
   - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
 
 # Site settings
 title: "Nem prensa"
 description: > # this means to ignore newlines until "email:"
-   Não sabemos quase nada, mas seguimos aprendendo.
+    Nesse diário de bordo queremos manter os aprendizados bem catalogados e sem
+    informação ambigua, para isso iremos manter poucos posts, porêm todos serão
+    atualizados sempre que se mostrarem equivocados.
+
+    Queremos manter também todo o histórico de mudanças nos textos, para que
+    seja possivel reve-los e entender a linha de raciocínio para cada decisão
+    que tomamos no plantio.
 
 email: nemprensa@gmail.com
 #blog logo
